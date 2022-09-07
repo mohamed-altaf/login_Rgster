@@ -1,0 +1,118 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+background-image:url(mohamed3.jpeg);
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:cover
+}
+.nav{
+padding:4px;
+background-color:#333;
+color:#333;
+height:40px;
+}
+ul{
+	margin-left:20px:
+}
+ul li{
+list-style:none;
+display:inline-block;
+padding:8px;
+margin-left:20px;
+}
+ul li a{
+text-decoration:none;
+display:inline-block;
+color:#fff;
+}	
+ul li:hover{
+ border-bottom: 1px solid #fff;
+}
+ul li a:hover{
+ color:#4caf50;
+}
+.section-title{
+	text-transform:capitalize;
+	font-size:45px;
+	text-align:center;
+color:#2196F3;	
+}
+.line{
+width:60px;
+height:4px;
+background-color:#ffffff;
+display: block;
+  margin: 0 auto 70px auto;	
+}
+.form{
+	width:600px;
+	height:500px;
+	background-color:#00001a;
+	position:absolute;
+	top:25%;
+	left:25%;
+	padding:13px;
+	border-radius:50px;
+	opacity: 0.9;
+}
+.h1{
+ color: #2196F3;
+
+  margin-top: 45px;
+  width: 120px;
+  margin-left: 190px;
+  padding: 10px;
+} 
+.span{
+ color: #fff;
+}
+.npt{
+ display: block;
+ width: 80%;
+ height: 40px;
+ position: absolute;
+ top: 200px;
+ left:60px;
+}
+.npt1{
+ display: block;
+ width: 80%;
+ height: 40px;
+ position: absolute;
+ top: 300px;
+  left:60px;
+}
+.go{
+ position: absolute;
+    top: 90%;
+    left: 120px;
+    width: 60%;
+    height: 35px;
+    color: #2196F3;
+     background-color: #333;
+    border: 1px solid #f5f5f5;
+	border-radius:50px;
+}
+.go:hover{
+ background-color: #fff;
+ border: 1px solid #000;
+}
+.form-link{
+ color: #4e9ace;
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top:400px;
+	margin-left:250px;
+}
+.form-link:hover{
+ text-decoration: underline;
+ color: #4caf50;
+}
+
+
+
+
